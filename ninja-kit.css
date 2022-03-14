@@ -1,0 +1,78 @@
+/* Framwork Css */
+
+/* margin */
+.m-10 {
+  margin: 10px;
+}
+.m-15 {
+  margin: 15px;
+}
+.m-20 {
+  margin: 20px;
+}
+
+/* margin-top */
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+
+/* margin-right */
+.mr-10 {
+  margin-right: 10px;
+}
+.mr-15 {
+  margin-right: 15px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+
+/* margin-bottom */
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+/* margin-left */
+.ml-10 {
+  margin-left: 10px;
+}
+.ml-15 {
+  margin-left: 15px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+
+/* margin-inline */
+.mi-10 {
+  margin-inline: 10px;
+}
+.mi-15 {
+  margin-inline: 15px;
+}
+.mi-20 {
+  margin-inline: 20px;
+}
+
+/* margin-block */
+.mbl-10 {
+  margin-block: 10px;
+}
+.mbl-15 {
+  margin-block: 15px;
+}
+.mbl-20 {
+  margin-block: 20px;
+}
