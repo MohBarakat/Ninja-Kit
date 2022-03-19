@@ -198,11 +198,11 @@
 
 /* Start Float */
 
-.fl-rtl {
+.fl-right {
   float: right;
 }
 
-.fl-ltr {
+.fl-left {
   float: left;
 }
 
