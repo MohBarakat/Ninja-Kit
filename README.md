@@ -1,12 +1,12 @@
 # Ninja-Kit
 
-**1- margin**<br/>
-**2- padding**<br/>
-**3- grid system**<br/>
-**4- flex system**<br/>
-**5- float**<br/>
-**6- direction**<br/>
-**7- position**<br>
+**1- Margin**<br/>
+**2- Padding**<br/>
+**3- Grid System**<br/>
+**4- Flex System**<br/>
+**5- Float**<br/>
+**6- Direction**<br/>
+**7- Position**<br>
 **8- Box Model**<br>
 **9- Gradients**<br>
 **10- Shadows**<br>

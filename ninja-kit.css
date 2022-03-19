@@ -195,3 +195,55 @@ pbl-15 {
 pbl-20 {
   padding-block: 20px;
 }
+
+/* Start Float */
+
+.fl-rtl {
+  float: right;
+}
+
+.fl-ltr {
+  float: left;
+}
+
+.fl-none {
+  float: none;
+}
+
+/* End Float */
+
+/* Start Direction */
+
+.ltr {
+  direction: ltr;
+}
+
+.rtl {
+  direction: rtl;
+}
+
+/* End Direction */
+
+/* Start Position */
+
+.p-absolute {
+  position: absolute;
+}
+
+.p-fixed {
+  position: fixed;
+}
+
+.p-relative {
+  position: relative
+}
+
+.p-static {
+  position: static;
+}
+
+.p-sticky {
+  position: sticky;
+}
+
+/* End Position */
