@@ -8,7 +8,7 @@
 - Include ***right***, ***Left***, and ***none***. <br/>
 
 **6- Direction**<br/>
-- Include ***Left to Right (lft)*** and ***Right to Left (rtl)***<br/>
+- Include <font color='red'>***Left to Right (lft)*** and ***Right to Left (rtl)***</font><br/>
 
 **7- Position**<br>
 - Include ***absolute***, ***fixed***, ***relative***,***static***, and ***sticky***<br/>
