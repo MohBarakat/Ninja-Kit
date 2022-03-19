@@ -5,12 +5,14 @@
 **3- Grid System**<br/>
 **4- Flex System**<br/>
 **5- Float**<br/>
-> Include __right__, __Left__, and __none__.< <br/>
+> Include *right*, *Left*, and *none*. <br/>
 
 **6- Direction**<br/>
-> Include __Left to Right(lft)__ and __Right to Left__<br/>
+> Include *Left to Right (lft)* and *Right to Left (rtl)*<br/>
 
 **7- Position**<br>
+> Include *absolute*, *fixed*, *relative*, *static*, and *sticky*<br/>
+
 **8- Box Model**<br>
 **9- Gradients**<br>
 **10- Shadows**<br>
