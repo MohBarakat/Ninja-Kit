@@ -8,7 +8,7 @@
 - Include ***right***, ***Left***, and ***none***. <br/>
 
 **6- Direction**<br/>
-- Include <span style="color:blue">***Left to Right (lft)*** and ***Right to Left (rtl)***</span><br/>
+- Include $\color{red}{***Left to Right (lft)*** and ***Right to Left (rtl)***}$<br/>
 
 **7- Position**<br>
 - Include ***absolute***, ***fixed***, ***relative***,***static***, and ***sticky***<br/>
