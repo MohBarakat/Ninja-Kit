@@ -16,6 +16,9 @@
 **8- Box Sizing**<br>
 - Include ***border-box***, and ***content-box***<br/>
 
-**9- Gradients**<br>
-**10- Shadows**<br>
-**11- Typography**<br>
+**9- Container**<br>
+- Include 5 sizes ***for Small 540p, For Medium720px, For Large960px, for X-Large 1140px, and For XX-Large 1320px***<br/>
+
+**10- Gradients**<br>
+**11- Shadows**<br>
+**12- Typography**<br>
