@@ -13,7 +13,9 @@
 **7- Position**<br>
 - Include ***absolute***, ***fixed***, ***relative***,***static***, and ***sticky***<br/>
 
-**8- Box Model**<br>
+**8- Box Sizing**<br>
+- Include ***border-box***, and ***content-box***<br/>
+
 **9- Gradients**<br>
 **10- Shadows**<br>
 **11- Typography**<br>

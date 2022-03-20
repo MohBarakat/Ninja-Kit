@@ -247,3 +247,15 @@
 }
 
 /* End Position */
+
+/* Start Box Sizing */
+
+.b-box {
+  box-sizing: border-box;
+}
+
+.c-box {
+  box-sizing: content-box;
+}
+
+/* End Box Sizing */
