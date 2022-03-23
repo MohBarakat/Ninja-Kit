@@ -289,3 +289,56 @@
 }
 
 /* End container */
+
+/* Start Background */
+
+.bg-cover{
+  background-size: cover;
+}
+
+.bg-contain{
+  background-size: contain;
+}
+
+.bg-size-120{
+  background-size: 120px 80px;
+}
+
+.bg-size-180{
+  background-size: 180px 80px;
+}
+
+.bg-repeat{
+  background-repeat: repeat;
+}
+
+.bg-norepeat{
+  background-repeat: no-repeat;
+}
+
+.bg-origin-pad{
+  background-origin: padding-box;
+}
+
+.bg-origin-bor{
+  background-origin: border-box;
+}
+
+.bg-attach-scr{
+  background-attachment: scroll;
+}
+
+.bg-attach-fix{
+  background-attachment: fixed;
+}
+
+.bg-color-main{
+  background-color: red;
+}
+.bg-color-sec{
+  background-color: blue;
+}
+.bg-color-alpha{
+  background-color: rgba(50, 115, 220, 0.3);
+
+  /* End Background */
