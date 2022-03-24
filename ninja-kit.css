@@ -342,3 +342,61 @@
   background-color: rgba(50, 115, 220, 0.3);
 
   /* End Background */
+
+  /* Start Typography */
+
+.main-font{
+    font-family: font-family: "Source Sans Pro", "Arial", sans-serif;;
+}
+
+.font-titleLG{
+  font-size: 1.8em;
+}
+
+.font-titleMed{
+  font-size: 1.2em;
+}
+
+.font-titleP{
+  font-size: .8em;
+}
+
+.font-letter{
+  letter-spacing: 0.1em;
+}
+
+.font-line{
+  line-height: 1.6;
+}
+
+.font-alignC{
+  text-align: center;
+}
+.font-alignR{
+  text-align: right;
+}
+.font-alignL{
+  text-align: left;
+}
+
+.font-weight300{
+  font-weight: 300;
+}
+.font-weight500{
+  font-weight: 500;
+}
+.font-weight700{
+  font-weight: 700;
+}
+
+.font-weightB{
+  font-weight: bold;
+}
+
+.text-decoration{
+  text-decoration: none;
+}
+
+
+
+  /* End Typography */
