@@ -1,7 +1,23 @@
 # Ninja-Kit
 
-**1- Margin**<br/>
-**2- Padding**<br/>
+## 1- Margin <br/>
+- Include <br/>
+     - ***margin*** <br/>
+     - ***margin-top*** <br/>
+     - ***margin-right*** <br/>
+     - ***margin-bottom*** <br/>
+     - ***margin-left*** <br/>
+     - ***margin-inline*** <br/>
+     - ***margin-block*** <br/><hr/>
+## 2- Padding<br/>
+- Include <br/>
+     - ***Padding*** <br/>
+     - ***Padding-top*** <br/>
+     - ***Padding-right*** <br/>
+     - ***Padding-bottom*** <br/>
+     - ***Padding-left*** <br/>
+     - ***Padding-inline*** <br/>
+     - ***Padding-block*** <br/><hr/>
 **3- Grid System**<br/>
 **4- Flex System**<br/>
 **5- Float**<br/>
