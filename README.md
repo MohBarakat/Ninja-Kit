@@ -8,8 +8,9 @@
      - ***margin-bottom*** <br/>
      - ***margin-left*** <br/>
      - ***margin-inline*** <br/>
-     - ***margin-block*** <br/><hr/>
-## 2- Padding<br/>
+     - ***margin-block*** <br/>
+
+## 2- Padding <br/>
 - Include <br/>
      - ***Padding*** <br/>
      - ***Padding-top*** <br/>
@@ -17,23 +18,41 @@
      - ***Padding-bottom*** <br/>
      - ***Padding-left*** <br/>
      - ***Padding-inline*** <br/>
-     - ***Padding-block*** <br/><hr/>
-**3- Grid System**<br/>
-**4- Flex System**<br/>
-**5- Float**<br/>
-- Include ***right***, ***Left***, and ***none***. <br/>
+     - ***Padding-block*** <br/>
+
+## 3- Grid System** <br/>
+## 4- Flex System** <br/>
+## 5- Float** <br/>
+- Include <br/>
+     - ***right*** <br/> 
+     - ***Left*** <br/>
+     - ***none*** <br/>
 
 **6- Direction**<br/>
-- Include ***Left to Right (lft)*** and ***Right to Left (rtl)***<br/>
+- Include <br/> 
+     - ***Left to Right (lft)*** <br/>  
+     - ***Right to Left (rtl)*** <br/>
 
-**7- Position**<br>
-- Include ***absolute***, ***fixed***, ***relative***,***static***, and ***sticky***<br/>
+**7- Position** <br>
+- Include <br/> 
+     - ***absolute*** <br/> 
+     - ***fixed*** <br/>
+     - ***relative*** <br/> 
+     - ***static*** <br/>
+     - ***sticky***<br/>
 
 **8- Box Sizing**<br>
-- Include ***border-box***, and ***content-box***<br/>
+- Include <br/> 
+     - ***border-box*** <br/> 
+     - ***content-box***<br/>
 
-**9- Container**<br>
-- Include 5 sizes ***for Small 540px, For Medium 720px, For Large 960px, for X-Large 1140px, and For XX-Large 1320px***<br/>
+**9- Container** <br>
+- Include 5 sizes <br/>
+     - ***for Small 540px*** <br/> 
+     - ***for Medium 720px*** <br/> 
+     - ***for Large 960px*** <br/>
+     - ***for X-Large 1140px*** <br/> 
+     - ***For XX-Large 1320px***<br/>
 
 **10- Gradients**<br>
 **11- Shadows**<br>
