@@ -22,9 +22,6 @@
 
 ## 3- Grid + Flex System <br/>
 - Include <br/>
-     - ***right*** <br/> 
-     - ***Left*** <br/>
-     - ***none*** <br/>
 
 ## 4- Float <br/>
 - Include <br/>
