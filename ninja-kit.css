@@ -2,6 +2,10 @@
 
 /* margin */
 
+.m-auto {
+  margin: auto;
+}
+
 .m-0 {
   margin: 0;
 }
@@ -292,6 +296,14 @@
 
 .jus-cont-sb {
   justify-content: space-between;
+}
+
+.jus-cont-center {
+  justify-content: center;
+}
+
+.align-items-center {
+  align-items: center;
 }
 
 /* End Grid + Flex System */
