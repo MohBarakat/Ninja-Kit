@@ -432,16 +432,28 @@
   background-attachment: fixed;
 }
 
-.bg-color-main {
-  background-color: red;
+.bg-grey-light {
+  background-color: #F6F6F6;
 }
 
-.bg-color-sec {
-  background-color: blue;
+.bg-grey-dark {
+  background-color: #333333;
 }
 
-.bg-color-alpha {
-  background-color: rgba(50, 115, 220, 0.3);
+.bg-red {
+  background-color: #B33939;
+}
+
+.bg-blue-light {
+  background-color: #04A9F4;
+}
+
+.bg-blue-dark {
+  background-color: #227093;
+}
+
+.bg-green {
+  background-color: #218D74;
 }
 
   /* End Background */
@@ -502,6 +514,18 @@
 
 .text-decoration {
   text-decoration: none;
+}
+
+.text-white {
+  color: #FFF;
+}
+
+.text-grey-light {
+  color: #9C9FA5;
+}
+
+.text-blue-light {
+  color: #04A9F4;
 }
 
   /* End Typography */
